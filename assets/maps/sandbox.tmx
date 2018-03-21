@@ -417,7 +417,7 @@
  <objectgroup name="above">
   <object id="118" gid="19" x="481" y="997" width="224" height="32"/>
  </objectgroup>
- <objectgroup name="bounds">
+ <objectgroup name="bounds" visible="0">
   <object id="197" x="2496" y="0" width="32" height="992">
    <properties>
     <property name="bodyType" value="static"/>

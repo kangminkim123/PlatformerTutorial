@@ -31,6 +31,10 @@ function scene:create( event )
 	local mapData = json.decodeFile( system.pathForFile( filename, system.ResourceDirectory ) )
 	map = tiled.new( mapData, "./assets/sprites" )
 
+	-- drag the whole map for fun
+    local dragable = require "com.ponywolf.plugins.dragable"
+    map = dragable.new(map)
+
 	-- Insert our game items in the correct back-to-front order
 	sceneGroup:insert( map )
 
