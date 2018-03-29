@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" tiledversion="1.1.3" orientation="orthogonal" renderorder="right-down" width="100" height="12" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#27b99a" nextobjectid="323">
+<map version="1.0" tiledversion="1.1.3" orientation="orthogonal" renderorder="right-down" width="100" height="12" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#27b99a" nextobjectid="396">
  <tileset firstgid="1" name="objs" tilewidth="1800" tileheight="893" tilecount="29" columns="0">
   <grid orientation="orthogonal" width="384" height="332"/>
   <tile id="63">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/1.png"/>
+   <image width="128" height="128" source="../sprites/1.png"/>
   </tile>
   <tile id="64">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/2.png"/>
+   <image width="128" height="128" source="../sprites/2.png"/>
   </tile>
   <tile id="65">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/3.png"/>
+   <image width="128" height="128" source="../sprites/3.png"/>
   </tile>
   <tile id="66">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/4.png"/>
+   <image width="128" height="128" source="../sprites/4.png"/>
   </tile>
   <tile id="67">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/5.png"/>
+   <image width="128" height="128" source="../sprites/5.png"/>
   </tile>
   <tile id="68">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/6.png"/>
+   <image width="128" height="128" source="../sprites/6.png"/>
   </tile>
   <tile id="69">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/7.png"/>
+   <image width="128" height="128" source="../sprites/7.png"/>
   </tile>
   <tile id="70">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/8.png"/>
+   <image width="128" height="128" source="../sprites/8.png"/>
   </tile>
   <tile id="71">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/9.png"/>
+   <image width="128" height="128" source="../sprites/9.png"/>
   </tile>
   <tile id="72">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/10.png"/>
+   <image width="128" height="128" source="../sprites/10.png"/>
   </tile>
   <tile id="73">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/11.png"/>
+   <image width="128" height="128" source="../sprites/11.png"/>
   </tile>
   <tile id="74">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/12.png"/>
+   <image width="128" height="128" source="../sprites/12.png"/>
   </tile>
   <tile id="75">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/13.png"/>
+   <image width="128" height="128" source="../sprites/13.png"/>
   </tile>
   <tile id="76">
-   <image width="128" height="93" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/14.png"/>
+   <image width="128" height="93" source="../sprites/14.png"/>
   </tile>
   <tile id="77">
-   <image width="128" height="93" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/15.png"/>
+   <image width="128" height="93" source="../sprites/15.png"/>
   </tile>
   <tile id="78">
-   <image width="128" height="93" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/16.png"/>
+   <image width="128" height="93" source="../sprites/16.png"/>
   </tile>
   <tile id="79">
-   <image width="128" height="99" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/17.png"/>
+   <image width="128" height="99" source="../sprites/17.png"/>
   </tile>
   <tile id="80">
-   <image width="128" height="128" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/18.png"/>
+   <image width="128" height="128" source="../sprites/18.png"/>
   </tile>
   <tile id="81">
-   <image width="1800" height="893" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/BG.png"/>
+   <image width="1800" height="893" source="../sprites/BG.png"/>
   </tile>
   <tile id="82">
-   <image width="101" height="101" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/Crate.png"/>
+   <image width="101" height="101" source="../sprites/Crate.png"/>
   </tile>
   <tile id="83">
-   <image width="97" height="78" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/Crystal.png"/>
+   <image width="97" height="78" source="../sprites/Crystal.png"/>
   </tile>
   <tile id="84">
-   <image width="101" height="101" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/IceBox.png"/>
+   <image width="101" height="101" source="../sprites/IceBox.png"/>
   </tile>
   <tile id="85">
-   <image width="511" height="201" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/Igloo.png"/>
+   <image width="511" height="201" source="../sprites/Igloo.png"/>
   </tile>
   <tile id="86">
-   <image width="87" height="94" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/Sign_1.png"/>
+   <image width="87" height="94" source="../sprites/Sign_1.png"/>
   </tile>
   <tile id="87">
-   <image width="87" height="93" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/Sign_2.png"/>
+   <image width="87" height="93" source="../sprites/Sign_2.png"/>
   </tile>
   <tile id="88">
-   <image width="193" height="210" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/SnowMan.png"/>
+   <image width="193" height="210" source="../sprites/SnowMan.png"/>
   </tile>
   <tile id="89">
-   <image width="124" height="78" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/Stone.png"/>
+   <image width="124" height="78" source="../sprites/Stone.png"/>
   </tile>
   <tile id="90">
-   <image width="364" height="280" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/Tree_1.png"/>
+   <image width="364" height="280" source="../sprites/Tree_1.png"/>
   </tile>
   <tile id="91">
-   <image width="228" height="280" source="../../../../Corona Projects/PlatformerTutorial/assets/sprites/Tree_2.png"/>
+   <image width="228" height="280" source="../sprites/Tree_2.png"/>
   </tile>
  </tileset>
  <objectgroup name="parallax">
@@ -179,7 +179,6 @@
   <object id="296" gid="81" x="1536" y="1536" width="128" height="128"/>
   <object id="297" gid="81" x="1408" y="1536" width="128" height="128"/>
   <object id="298" gid="81" x="1280" y="1536" width="128" height="128"/>
-  <object id="303" gid="86" x="3069" y="1188" width="511" height="201"/>
   <object id="304" gid="90" x="2818" y="1187" width="124" height="78"/>
   <object id="305" gid="85" x="2330" y="1058" width="101" height="101"/>
   <object id="311" gid="85" x="2330" y="954" width="101" height="101"/>
@@ -187,14 +186,77 @@
   <object id="320" gid="89" x="1560" y="1057" width="193" height="210"/>
   <object id="321" gid="92" x="1906" y="1060" width="228" height="280"/>
   <object id="322" gid="92" x="2586" y="1188" width="228" height="280"/>
+  <object id="328" gid="78" x="1792" y="1152" width="128" height="93"/>
+  <object id="329" gid="78" x="1920" y="1152" width="128" height="93"/>
+  <object id="330" gid="78" x="2048" y="1152" width="128" height="93"/>
+  <object id="331" gid="78" x="2176" y="1152" width="128" height="93"/>
+  <object id="332" gid="79" x="2304" y="1152" width="128" height="93"/>
+  <object id="335" gid="80" x="3584" y="1408" width="128" height="99"/>
+  <object id="336" gid="80" x="3712" y="1408" width="128" height="99"/>
+  <object id="337" gid="81" x="3584" y="1536" width="128" height="128"/>
+  <object id="338" gid="81" x="3712" y="1536" width="128" height="128"/>
+  <object id="339" gid="64" x="3840" y="1152" width="128" height="128"/>
+  <object id="340" gid="65" x="3968" y="1152" width="128" height="128"/>
+  <object id="341" gid="65" x="4096" y="1152" width="128" height="128"/>
+  <object id="342" gid="65" x="4224" y="1152" width="128" height="128"/>
+  <object id="343" gid="65" x="4352" y="1152" width="128" height="128"/>
+  <object id="344" gid="65" x="4480" y="1152" width="128" height="128"/>
+  <object id="345" gid="65" x="4608" y="1152" width="128" height="128"/>
+  <object id="346" gid="65" x="4736" y="1152" width="128" height="128"/>
+  <object id="347" gid="65" x="4864" y="1152" width="128" height="128"/>
+  <object id="348" gid="66" x="4992" y="1152" width="128" height="128"/>
+  <object id="349" gid="68" x="3840" y="1280" width="128" height="128"/>
+  <object id="350" gid="68" x="3840" y="1408" width="128" height="128"/>
+  <object id="351" gid="68" x="3840" y="1536" width="128" height="128"/>
+  <object id="352" gid="68" x="3968" y="1536" width="128" height="128"/>
+  <object id="353" gid="68" x="3968" y="1408" width="128" height="128"/>
+  <object id="354" gid="68" x="3968" y="1280" width="128" height="128"/>
+  <object id="355" gid="68" x="4224" y="1280" width="128" height="128"/>
+  <object id="356" gid="68" x="4096" y="1280" width="128" height="128"/>
+  <object id="357" gid="68" x="4096" y="1408" width="128" height="128"/>
+  <object id="358" gid="68" x="4224" y="1408" width="128" height="128"/>
+  <object id="359" gid="68" x="4352" y="1280" width="128" height="128"/>
+  <object id="360" gid="68" x="4480" y="1280" width="128" height="128"/>
+  <object id="361" gid="68" x="4608" y="1280" width="128" height="128"/>
+  <object id="362" gid="68" x="4736" y="1280" width="128" height="128"/>
+  <object id="363" gid="68" x="4736" y="1280" width="128" height="128"/>
+  <object id="364" gid="68" x="4992" y="1280" width="128" height="128"/>
+  <object id="365" gid="68" x="4864" y="1280" width="128" height="128"/>
+  <object id="366" gid="68" x="4864" y="1408" width="128" height="128"/>
+  <object id="367" gid="68" x="4992" y="1408" width="128" height="128"/>
+  <object id="368" gid="68" x="4992" y="1536" width="128" height="128"/>
+  <object id="371" gid="68" x="4864" y="1536" width="128" height="128"/>
+  <object id="372" gid="68" x="4736" y="1536" width="128" height="128"/>
+  <object id="373" gid="68" x="4736" y="1408" width="128" height="128"/>
+  <object id="374" gid="68" x="4480" y="1408" width="128" height="128"/>
+  <object id="375" gid="68" x="4608" y="1408" width="128" height="128"/>
+  <object id="376" gid="68" x="4608" y="1536" width="128" height="128"/>
+  <object id="377" gid="68" x="4480" y="1536" width="128" height="128"/>
+  <object id="378" gid="68" x="4352" y="1408" width="128" height="128"/>
+  <object id="379" gid="68" x="4352" y="1536" width="128" height="128"/>
+  <object id="380" gid="68" x="4224" y="1536" width="128" height="128"/>
+  <object id="381" gid="68" x="4096" y="1536" width="128" height="128"/>
+  <object id="382" gid="67" x="3840" y="1280" width="128" height="128"/>
+  <object id="383" gid="67" x="3840" y="1408" width="128" height="128"/>
+  <object id="384" gid="67" x="3840" y="1536" width="128" height="128"/>
+  <object id="385" gid="69" x="4992" y="1280" width="128" height="128"/>
+  <object id="386" gid="69" x="4992" y="1408" width="128" height="128"/>
+  <object id="387" gid="69" x="4992" y="1536" width="128" height="128"/>
+  <object id="388" gid="69" x="1152" y="1408" width="128" height="128"/>
+  <object id="389" gid="69" x="1152" y="1536" width="128" height="128"/>
+  <object id="390" gid="67" x="0" y="1408" width="128" height="128"/>
+  <object id="391" gid="67" x="0" y="1536" width="128" height="128"/>
+  <object id="392" gid="64" x="0" y="1280" width="128" height="128"/>
+  <object id="393" gid="66" x="1152" y="1280" width="128" height="128"/>
  </objectgroup>
+ <objectgroup name="Object Layer 10"/>
  <objectgroup name="background"/>
  <objectgroup name="ground"/>
  <objectgroup name="castle"/>
  <objectgroup name="castledeco"/>
  <objectgroup name="shading" opacity="0.36"/>
  <objectgroup name="game"/>
- <objectgroup name="above"/>
+ <objectgroup name="above" visible="0"/>
  <objectgroup name="bounds" visible="0">
   <object id="197" x="2496" y="0" width="32" height="992">
    <properties>
